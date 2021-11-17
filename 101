@@ -1,2 +1,5 @@
-.swift [creates a pointer for ContentView.swift]
+.swift [this file maps to the ContentView.swift]
+
+@main tag is the entry point to the app; not much else to configure
+
 ContentView.swift  [this is the view the user sees]
