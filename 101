@@ -3,3 +3,14 @@
 @main tag is the entry point to the app; not much else to configure
 
 ContentView.swift  [this is the view the user sees]
+
+
+hold down options/Alt, rclick on file to open up separate editor instance
+
+//add comments 
+
+add section within code to organize breadcrumbs
+
+// MARK: test
+
+--> case+space sensitive 
